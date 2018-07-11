@@ -1,3 +1,7 @@
 # first push
+<<<<<<< HEAD
 3 inpput
 # master change
+=======
+# update branch
+>>>>>>> help
